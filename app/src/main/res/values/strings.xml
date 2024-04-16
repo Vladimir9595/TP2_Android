@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Second Application</string>
+    <string name="firstname">Vladimir</string>
+    <string name="lastname">Sacchetto</string>
+    <string name="start">Start</string>
+    <string name="apply">Apply</string>
+    <string name="progress_0">Progress: 0%</string>
+</resources>
